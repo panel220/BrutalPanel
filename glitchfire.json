@@ -1,0 +1,10 @@
+{
+  "searchPattern": "00 00 C0 3F 01 00 00 00 00 00 34 42 9A 99 99 3E 0A D7 A3 3D 9A 99 99 3E 00 00 00 3F 8F C2 F5 3E B8 1E",
+  "operations": [
+    {
+      "offset": 3,
+      "type": "bytes",
+      "value": "FF"
+    }
+  ]
+}
