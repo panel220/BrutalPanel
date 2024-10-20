@@ -1,0 +1,15 @@
+{
+  "searchPattern": "19 3E CD CC 4C 3E A4 70 FD 3E AE 47 01 3F A4 70 FD 3E AE 47 01 3F AE 47 E1 3E 29 5C 0F 3F 14 AE C7",
+  "operations": [
+    {
+      "offset": 12,
+      "type": "bytes",
+      "value": "E9"
+    },
+    {
+      "offset": 13,
+      "type": "bytes",
+      "value": "FF"
+    }
+  ]
+}
