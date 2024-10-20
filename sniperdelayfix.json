@@ -1,0 +1,10 @@
+{
+  "searchPattern": "00 10 A0 E3 FD 9D 01 EB 00 00 00 EA 00 60 A0 E3 06 00 A0 E1 18 D0 4B E2 02 8B BD EC 70 8C BD E8 6B",
+  "operations": [
+    {
+      "offset": 15,
+      "type": "bytes",
+      "value": "F3"
+    }
+  ]
+}
